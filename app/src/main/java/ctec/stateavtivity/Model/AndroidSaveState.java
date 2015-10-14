@@ -1,4 +1,4 @@
-package ctec.stateavtivity.Model;
+package ctec.stateavtivity.model;
 
 import android.app.Application;
 
